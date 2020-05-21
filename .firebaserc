@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-fireshipio-course": {
+      "hosting": {
+        "angular-fireshipio-course": [
+          "angular-fireshipio-course"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-fireshipio-course"
+  }
+}
